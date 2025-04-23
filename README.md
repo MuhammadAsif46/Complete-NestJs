@@ -1,2 +1,2 @@
 # Complete-NestJs
-Learn complete nestjs server side web application nodejs framework 
+Learn NestJS from basics to advanced with real-world examples and MongoDB integration to build powerful backend applications.
